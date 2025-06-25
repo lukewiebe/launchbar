@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CFBundleIdentifier</key>
+		<string>com.lukewiebe.kinopio</string>
+		<key>CFBundleName</key>
+		<string>Search Kinopio</string>
+		<key>CFBundleVersion</key>
+		<string>1.0.0</string>
+		<key>LBAssociatedApplication</key>
+		<string>com.todesktop.201223j48l03cxi</string>
+		<key>LBDescription</key>
+		<dict>
+			<key>LBAuthor</key>
+			<string>Luke Wiebe</string>
+			<key>LBEmail</key>
+			<string>mail@lukewiebe.com</string>
+			<key>LBSummary</key>
+			<string>Quickly open your Kinopio boards.</string>
+			</dict>
+		<key>LBScripts</key>
+		<dict>
+			<key>LBDefaultScript</key>
+			<dict>
+				<key>LBRequiresArgument</key>
+				<false />
+				<key>LBResultType</key>
+				<string>unknown</string>
+				<key>LBReturnsResult</key>
+				<true/>
+				<key>LBScriptName</key>
+				<string>default.js</string>
+				</dict>
+			</dict>
+		</dict>
+	</plist>
